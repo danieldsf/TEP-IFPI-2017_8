@@ -25,7 +25,7 @@
     "fontawesome": "^4.7.2",
     "gasparesganga-jquery-loading-overlay": "^2.0.1",
     "html2pdf.js": "^0.8.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery-form": "^4.2.2",
     "jquery-ui": "^1.12.1",
     "knockout": "^3.5.0-beta",
