@@ -13,7 +13,7 @@ drf-nested-routers==0.91
 et-xmlfile==1.0.1
 gunicorn==19.9.0
 html5lib==1.0b10
-httplib2==0.12.0
+httplib2==0.18.0
 idna==2.7
 jdcal==1.4
 odfpy==1.3.6
